@@ -1,4 +1,4 @@
-A Google Chrome extension boiler plate built in React and Redux
+A Google Chrome extension boilerplate built in React and Redux
 
 ## Installation
 
