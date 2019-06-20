@@ -16,9 +16,8 @@ export default class InjectApp extends Component {
   render() {
     return (
       <div>
-        <div>Hello!</div>
-        <div className="x-line" />
-        <div className="y-line" />
+        {/*<div className="x-line" />
+           <div className="y-line" />*/}
       </div>
     );
   }
